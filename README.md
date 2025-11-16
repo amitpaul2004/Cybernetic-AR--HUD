@@ -11,12 +11,9 @@ This README explains **how to run, use, and customize** the project. A sample UI
 ---
 
 # 📸 UI Preview 
-<img width="1919" height="854" alt="image" src="https://github.com/user-attachments/assets/522dd20a-4d2a-4cb8-aa19-30775e377682" />
 
+<img width="1918" height="849" alt="image" src="https://github.com/user-attachments/assets/c0949618-760d-4b69-8a21-ad7a611cb622" />
 
-```
-
----
 
 # 🛠️ Features
 ### ✔️ AR camera background
